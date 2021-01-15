@@ -1,0 +1,26 @@
+header {
+    background-color: rgb(68, 68, 68);
+    padding: 4px;
+    text-align: center;
+    color: white
+}
+
+input {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.row {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+tr {
+    background-color: rgb(71, 126, 189);
+}
