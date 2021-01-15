@@ -14,4 +14,5 @@ Make the search button show any cities and provide more data. Also to populate t
 
 ## Links
 https://fongvang09.github.io/Weather-Dashboard/
+
 https://github.com/fongvang09/Weather-Dashboard/settings
