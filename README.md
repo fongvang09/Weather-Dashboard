@@ -10,7 +10,7 @@ Just stare at the data. Literally. It's that easy.
 Make the search button show any cities and provide more data. Also to populate the search results underneath the search bar.
 
 ## Screenshot
-![weather dashboard screenshot]()
+![weather dashboard screenshot](weather-dashboard-ss.JPG)
 
 ## Links
 https://fongvang09.github.io/Weather-Dashboard/
