@@ -1,4 +1,4 @@
-# Weather-Dashboard
+# Weather-Dashboard [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Purpose of this project
 It's a beautiful day even on ugly days if you've prepared yourself for the upcoming weathers, GOOD or BAD! WIth this weather page, it'll give you important info that you'll need to prepare for your next few days. It provides data on the temperature, humidity, and wind speed (MPH). 
